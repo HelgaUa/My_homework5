@@ -1,0 +1,22 @@
+table {
+    text-align: center;
+    border: 1px solid black;
+    width: 500px;
+}
+
+td, th {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.blue {
+    background-color: #4986e8;
+}
+
+.yellow {
+    background-color: #feff02;
+}
+
+.hide {
+    display: none;
+}
